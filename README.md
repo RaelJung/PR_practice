@@ -1,6 +1,6 @@
 # PR_practice
 
-## 21900658 정라엘
+## **21900658 정라엘**
 ## Git 스터디
 ### Day 1
 - Git 레파지토리 관리 (Init, Commit, Push, Pull)
